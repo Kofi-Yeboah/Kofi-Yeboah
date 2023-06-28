@@ -3,8 +3,8 @@
 # 💫 About Me:
 I'm a UI/UX designer looking to get into frontend development for mobile and web🔥.<br>I'm currently learning Flutter/ Dart and React for mobile development and HTML, CSS and Javascript for web development🎉.<br>My passion is building amazing 3D interactive web and mobile applications which are still user-intuitive✨.
 
- <img align="left" width="50%" height="45%" src="Afrocentric-small.png"/>
- <img align="right" width="45%" height="40%" src="MentHealth-small.png"/>
+ <img align="left" src="Afrocentric-small.png"/>
+ <img align="right" src="Hostell-small.png"/>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/kofiyeboah1) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/kofi.ay.12) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://z-p15.www.instagram.com/kofi.ay/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kofi-yeboah-65a8111b4) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yeboahkofi012)
