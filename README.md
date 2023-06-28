@@ -1,5 +1,5 @@
-![Header](./Vector.png)
- <img align="right" width="40%" height="40%" src="https://media4.giphy.com/media/26uf0M7Rs0TyBC0mc/giphy.gif"/>
+ <img align="middle" width="100%" height="100%" src="https://i.pinimg.com/originals/ca/e1/1d/cae11df222ff8639d02aa7b81d1d296a.gif"/>
+ <img align="right" width="35%" height="35%" src="https://media4.giphy.com/media/26uf0M7Rs0TyBC0mc/giphy.gif"/>
 
 # 💫 About Me:
 I'm a UI/UX designer looking to get into frontend development for mobile and web🔥.<br>I'm currently learning Flutter/ Dart and React for mobile development and HTML, CSS and Javascript for web development🎉.<br>My passion is building amazing 3D interactive web and mobile applications which are still user-intuitive✨.
