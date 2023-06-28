@@ -1,3 +1,4 @@
+![Header](./Vector.png)
 # 💫 About Me:
 I'm a UI/UX designer looking to get into frontend development for mobile and web🔥.<br>I'm currently learning Flutter/ Dart and React for mobile development and HTML, CSS and Javascript for web development🎉.<br>My passion is building amazing 3D interactive web and mobile applications which are still user-intuitive✨.
 
