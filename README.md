@@ -1,4 +1,4 @@
- <img align="middle" width="100%" height="100%" src="[https://in.pinterest.com/pin/874402083903433093/](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)"/>
+ <img align="middle" width="100%" height="100%" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"/>
 
 # 💫 About Me:
 I'm a UI/UX designer looking to get into frontend development for mobile and web🔥.<br>I'm currently learning Flutter/ Dart and React for mobile development and HTML, CSS and Javascript for web development🎉.<br>My passion is building amazing 3D interactive web and mobile applications which are still user-intuitive✨.
